@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #444444;
+    height: 20vh;
+
+}
+
+.sidebar {
+    background-color: #D8D8D8;
+    width: 18vw;
+    height: 80vh;
+
+}
+
+.center {
+    background-color: #EFEFEF;
+    float: left;
+    width: 65vw;
+    height: 70vh;
+
+
+}
+
+.footer {
+    background-color: #222222;
+    width: 65vw;
+    height: 10vh;
+    float: left;
+
+
+}
+
+#side1 {
+    float: left;
+}
+
+#side2 {
+    width: auto;
+}
+
