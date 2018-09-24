@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    text-align: center;
+    padding: 85px 0px;
+
+
+}
+
+.header {
+    background-color: #D8D8D8;
+    height: 10vh;
+    padding: 10px;
+
+}
+
+.logo {
+    background-color:#4A90E2;
+    height: 60px;
+    width: 60px;
+}
+
+.one {
+    background-color:#4A90E2;
+    height: 12vh;
+
+}
+
+.two {
+    background-color:#50E3C2;
+    height: 12vh;
+
+}
+
+.three {
+    background-color:#B8E986;
+    height: 12vh;
+
+}
+
+.four {
+    background-color:#F8E71C;
+    height: 12vh;
+
+}
+
